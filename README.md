@@ -1,3 +1,3 @@
-#AI Model playing Ping Pong
+# AI Model playing Ping Pong
 
 ![demo video](demo.gif)
