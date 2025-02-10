@@ -5,4 +5,6 @@ White is controlled by me
 
 Gray is controlled by model
 
-![demo vid2](https://github.com/user-attachments/assets/f5d71a75-284f-46c2-8432-bccb8896dfe9)
+
+![vid](https://github.com/user-attachments/assets/0bb71b69-ac31-40e5-8b74-7d320a14ba19)
+
